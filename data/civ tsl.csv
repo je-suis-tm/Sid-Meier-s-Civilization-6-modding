@@ -1,1 +1,108 @@
-a 
+﻿etat,pays,cite,type,continent,latitude,longitude
+Kumasi,Ghana,Kumasi,cite-etat,Africa,6.69348,-1.62366
+Antananarivo,Madagascar,Antananarivo,cite-etat,Africa,-18.88763,47.51045
+chinguetti,Mauritania,Atar,cite-etat,Africa,20.75762,-13.35865
+Fes,Morocco,Fes,cite-etat,Africa,34.03001,-5.0075
+Ngazargamu,Nigeria,Borno,cite-etat,Africa,11.83619,13.17228
+Taruga,Nigeria,Abuja,cite-etat,Africa,9.06825,7.40202
+Mogadishu,Somalia,Mogadishu,cite-etat,Africa,2.04517,45.31998
+Johannesburg,South Africa,Johannesburg,cite-etat,Africa,-26.20349,28.04483
+Zanzibar,Tanzania,Zanzibar,cite-etat,Africa,-6.16545,39.19563
+Carthage,Tunisia,Tunis,cite-etat,Africa,36.80495,10.17994
+Bandar Brunei,Brunei,Bandar Seri Begawan,cite-etat,Asia,4.91811,114.94049
+Hong Kong,Hong Kong,Hong Kong,cite-etat,Asia,22.33343,114.17025
+Nalanda,India,Bihar,cite-etat,Asia,27.25796,84.01616
+Lahore,Pakistan,Lahore,cite-etat,Asia,31.52654,74.35703
+Mohenjo-Daro,Pakistan,Mohenjo-Daro,cite-etat,Asia,27.32426,68.1357
+Singapore,Singapore,Singapore,cite-etat,Asia,1.29202,103.86358
+Kandy,Sri Lanka,Kandy,cite-etat,Asia,7.29085,80.63335
+Ayutthaya,Thailand,Bangkok,cite-etat,Asia,13.75414,100.50842
+La venta,Mexico,Tobasco,cite-etat,Central America,17.98341,-92.93778
+Mexico City,Mexico,Mexico City,cite-etat,Central America,19.43305,-99.13291
+Mitla,Mexico,Oaxaca,cite-etat,Central America,17.06143,-96.73375
+Palenque,Mexico,Ciudad del Carmen,cite-etat,Central America,18.65024,-91.80682
+Caguana,Puerto Rico,Utuado,cite-etat,Central America,18.26715,-66.70677
+Kabul,Afghanistan,Kabul,cite-etat,Eurasia,34.55507,69.20811
+Yerevan,Armenia,Yerevan,cite-etat,Eurasia,40.18652,44.51412
+Anshan,Iran,Shiraz,cite-etat,Eurasia,29.59089,52.5797
+Akkad,Iraq,Tilkrit,cite-etat,Eurasia,34.59964,43.67507
+Jerusalem,Israel,Jerusalem,cite-etat,Eurasia,31.76847,35.213
+Muscat,Oman,Muscat,cite-etat,Eurasia,23.59575,58.44101
+Antioch,Turkey,Antakya,cite-etat,Eurasia,36.20006,36.16729
+Hattusa,Turkey,Boğazkale,cite-etat,Eurasia,40.02392,34.60901
+Samarkand,Uzbekstan,Samarkand,cite-etat,Eurasia,39.65171,66.97681
+Brussels,Belgium,Brussels,cite-etat,Europe,50.87815,4.3677
+Preslav,Bulgaria,Shumen,cite-etat,Europe,43.271,26.93541
+Armagh,Ireland,Armagh,cite-etat,Europe,54.35003,-6.65212
+Bologna,Italy,Bologna,cite-etat,Europe,44.49658,11.34404
+Venice,Italy,Venice,cite-etat,Europe,45.44074,12.31722
+Vilnius,Lithuania,Vilnius,cite-etat,Europe,54.68716,25.27906
+Valletta,Malta,Valletta,cite-etat,Europe,35.89858,14.51398
+Wolin,Poland,Wolin,cite-etat,Europe,53.8421,14.61478
+Granada,Spain,Granada,cite-etat,Europe,37.18019,-3.59978
+Stockholm,Sweden,Stockholm,cite-etat,Europe,59.32898,18.0687
+Geneva,Switzerland,Geneva,cite-etat,Europe,46.20348,6.14409
+Vatican City,Vatican City,Vatican City,cite-etat,Europe,41.90233,12.45371
+Cardiff,Wales,Cardiff,cite-etat,Europe,51.48145,-3.17911
+Toronto,Canada,Toronto,cite-etat,North America,43.65534,-79.37533
+Cahokia,US,St Louis,cite-etat,North America,38.62573,-90.19368
+Nan Madol,Micronesia,Pohnpei,cite-etat,Oceania,6.87989,158.22044
+Auckland,New Zealand,Auckland,cite-etat,Oceania,-36.85336,174.76379
+Buenos Aires,Argentina,Buenos Aires,cite-etat,South America,-34.60868,-58.38318
+Rapa Nui,Chile,Easter Island,cite-etat,South America,-27.11291,-109.34943
+Hunza,Colombia,Tunja,cite-etat,South America,5.54502,-73.35801
+Nazca,Peru,Nazca,cite-etat,South America,-14.82738,-74.93719
+Kongo,Angola,Mbanza Kongo,civilization,Africa,-6.26678,14.23438
+Egypt,Egypt,Alexandria,civilization,Africa,31.20054,29.92055
+Ethiopia,Ethiopia,Addis Ababa,civilization,Africa,9.00723,38.7596
+Mali,Guinea,Niani,civilization,Africa,11.37697,-8.38878
+Nubia,Sudan,Shendi,civilization,Africa,16.67463,33.44968
+Zulu,Zimbabwe,Ulundi,civilization,Africa,-28.30058,31.43323
+Khmer,Cambodia,Angkor Thom,civilization,Asia,13.48508,103.87412
+Mongolia Kubilai,China,Zhenglan Banner,civilization,Asia,42.6808,115.9235
+China Qin,China,Xi'an,civilization,Asia,34.27609,108.9562
+China Kubilai,China,Beijing,civilization,Asia,39.90805,116.39739
+India Ghandi,India,New Delhi,civilization,Asia,28.61171,77.20623
+India Maurya,India,Patna,civilization,Asia,25.59744,85.13205
+Indonesia,Indonesia,Semarang,civilization,Asia,-7.00326,110.44178
+Japan,Japan,Kyoto,civilization,Asia,34.96711,135.74427
+Mongolia Genghis,Mongolia,Kharkhorin ,civilization,Asia,47.19137,102.83246
+Korea,South Korea,Gyeongju,civilization,Asia,35.83892,129.21379
+Vietnam,Vietnam,Hanoi,civilization,Asia,21.02818,105.83645
+Maya,Costa Rica,Naranjo,civilization,Central America,10.09755,-84.37916
+Aztec,Mexico,Mexico City,civilization,Central America,19.42112,-99.13263
+Georgia,Georgia,Tibilisi,civilization,Eurasia,41.70982,44.83404
+Persia,Iran,Marvdasht,civilization,Eurasia,29.88075,52.82192
+Babylon,Iraq,Baghdad,civilization,Eurasia,33.31481,44.36
+Sumer,Iraq,As-Samawah,civilization,Eurasia,31.31378,45.28556
+Phoenicia,Lebanon,Tyre,civilization,Eurasia,33.27041,35.20331
+Russia,Russia,St Petersbourg,civilization,Eurasia,59.91996,30.33907
+Arab,Saudi Arabia,Mecca,civilization,Eurasia,21.40272,39.83624
+Byzantine,Turkey,Istanbul,civilization,Eurasia,41.03712,28.99014
+Ottoman,Turkey,Istanbul,civilization,Eurasia,41.03712,28.99014
+Scythia,Uzbekstan,Muynak,civilization,Eurasia,43.77492,59.02924
+Gaul,Belgium,Tongeren,civilization,Europe,50.78231,5.46513
+France,France,Paris,civilization,Europe,48.85561,2.35046
+Germany,Germany,Aachen,civilization,Europe,50.77162,6.09034
+Athens,Greece,Athens,civilization,Europe,37.9854,23.7277
+Macedonia,Greece,Pella,civilization,Europe,40.76116,22.52611
+Sparta,Greece,Tripolis,civilization,Europe,37.51213,22.37391
+Hungary,Hungary,Budapest,civilization,Europe,47.49943,19.05201
+Rome,Italy,Roma,civilization,Europe,41.88111,12.51538
+Netherlands,Netherlands,Amsterdam,civilization,Europe,52.36255,4.88404
+Norway,Norway,Trondheim,civilization,Europe,63.43003,10.39687
+Poland,Poland,Krakow,civilization,Europe,50.06116,19.94217
+Portugal,Portugal,Lisbon,civilization,Europe,38.72459,-9.14269
+Scotland,Scotland,Stirling,civilization,Europe,56.11669,-3.93575
+Spain,Spain,Madrid,civilization,Europe,40.42167,-3.69808
+Sweden,Sweden,Stockholm,civilization,Europe,59.32898,18.0687
+UK,UK,London,civilization,Europe,51.51293,-0.13457
+Cree,Canada,North Battleford,civilization,North America,52.76384,-108.27755
+America,US,Washington,civilization,North America,38.90436,-77.04205
+Canada,Canada,Ottawa,civilization,North America,45.46687,-75.70969
+Australia,Australia,Canberra,civilization,Oceania,-35.30774,149.12223
+Maori,New Zealand,Hokianga,civilization,Oceania,-35.39649,173.48688
+Brazil,Brazil,Rio de Janeiro,civilization,South America,-22.91009,-43.1837
+Mapuche,Chile,Temuco,civilization,South America,-38.73657,-72.60307
+Colombia,Colombia,Bogota,civilization,South America,4.70919,-74.08103
+Inca,Peru,Cuzco,civilization,South America,-13.53468,-71.96946
