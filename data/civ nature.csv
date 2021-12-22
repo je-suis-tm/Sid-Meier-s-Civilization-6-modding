@@ -1,35 +1,35 @@
-﻿nom,pays,cite,continent,latitude,longitude
-Sahara el Beyda,Egypt,Farafra,Africa,27.32775,28.18963
-Tsingy de Bemaraha,Madagascar,Antslova,Africa,-18.42645,44.74215
-Eye of Sahara,Mauritania,Ouadane,Africa,21.12693,-11.40165
-Lake Retba,Senegal,Dakar,Africa,14.83857,-17.23411
-Mount Kilimanjaro,Tanzania,Moshi,Africa,-3.06768,37.35563
-Mount Everest,China,Chukhung,Asia,27.98782,86.92515
-Zhangye Danxia,China,Zhangye,Asia,38.93526,100.11624
-Ubsunur Hollow,Mongolia,Torgalyg,Asia,50.3182,92.70023
-Chocolate Hills,Philipines,Carmen,Asia,9.82937,124.13985
-Hạ Long Bay,Vietnam,Hạ Long,Asia,20.90965,107.18368
-Ik-Kil,Mexico,Pisté,Central America,20.66069,-88.55027
-Fountain of Youth,,,,,
-Gobustan,Azerbaijan,Baku,Eurasia,40.11141,49.37835
-Dead Sea,Israel,Masada,Eurasia,31.55583,35.47312
-Pamukkale,Turkey,Denizli ,Eurasia,37.91355,29.11859
-Eyjafjallajökull,Iceland,Vik,Europe,63.62341,-19.6116
-Mount Vesuvius ,Italy,Napoli,Europe,40.82219,14.42873
-Lysefjord,Norway,Stavanger,Europe,59.00415,6.31701
-Matterhorn,Switzerland,Zermatt,Europe,45.97639,7.65819
-Cliff of Dover,UK,Dover,Europe,51.13418,1.35748
-Giant's Causeway,UK,Coleraine,Europe,55.24046,-6.51185
-Bermuda Triangle,US,Bermuda,North America,25,-71
-Crater Lake,US,Roseburg,North America,42.9438,-122.10906
-Delicate Arch,US,Moab,North America,38.74376,-109.49946
-Mato Tipila,US,sundance,North America,44.59021,-104.71463
-Yosemite,US,mariposa,North America,37.86499,-119.53745
-Great Barrier Reef,Australia,Cairnes,Oceania,-16.92745,146.16681
-Uluru,Australia,Alice Springs,Oceania,-25.34457,131.0368
-Piopiotahi,New Zealand,Milford Sound,Oceania,-44.64112,167.89759
-Païtiti,Brazil,Rio Branco,South America,-10.03366,-67.81931
-Pantanal,Brazil,Corumba,South America,-17.8728,-57.44372
-Torres del Paine,Chile,Punta Arenas,South America,-50.94235,-73.40681
-Galápagos Islands,Ecuador,Galápagos Islands,South America,-0.63347,-90.97671
-Mount Roraima,Venezuela,Santa Elena de Uairén,South America,5.13139,-60.75857
+﻿nom,code,pays,cite,continent,latitude,longitude
+Sahara el Beyda,FEATURE_WHITEDESERT,Egypt,Farafra,Africa,27.32775,28.18963
+Tsingy de Bemaraha,FEATURE_TSINGY,Madagascar,Antslova,Africa,-18.42645,44.74215
+Eye of Sahara,FEATURE_EYE_OF_THE_SAHARA,Mauritania,Ouadane,Africa,21.12693,-11.40165
+Lake Retba,FEATURE_LAKE_RETBA,Senegal,Dakar,Africa,14.83857,-17.23411
+Mount Kilimanjaro,FEATURE_KILIMANJARO,Tanzania,Moshi,Africa,-3.06768,37.35563
+Mount Everest,FEATURE_EVEREST,Nepal,Chukhung,Asia,27.98782,86.92515
+Zhangye Danxia,FEATURE_ZHANGYE_DANXIA,China,Zhangye,Asia,38.93526,100.11624
+Ubsunur Hollow,FEATURE_UBSUNUR_HOLLOW,Mongolia,Torgalyg,Asia,50.3182,92.70023
+Chocolate Hills,FEATURE_CHOCOLATEHILLS,Philipines,Carmen,Asia,9.82937,124.13985
+Hạ Long Bay,FEATURE_HA_LONG_BAY,Vietnam,Hạ Long,Asia,20.90965,107.18368
+Ik-Kil,FEATURE_IKKIL,Mexico,Pisté,Central America,20.66069,-88.55027
+Fountain of Youth,FEATURE_FOUNTAIN_OF_YOUTH,Puerto Rico,San Juan,Central America,,
+Gobustan,FEATURE_GOBUSTAN,Azerbaijan,Baku,Eurasia,40.11141,49.37835
+Dead Sea,FEATURE_DEAD_SEA,Israel,Masada,Eurasia,31.55583,35.47312
+Pamukkale,FEATURE_PAMUKKALE,Turkey,Denizli ,Eurasia,37.91355,29.11859
+Eyjafjallajökull,FEATURE_EYJAFJALLAJOKULL,Iceland,Vik,Europe,63.62341,-19.6116
+Mount Vesuvius ,FEATURE_VESUVIUS,Italy,Napoli,Europe,40.82219,14.42873
+Lysefjord,FEATURE_LYSEFJORDEN,Norway,Stavanger,Europe,59.00415,6.31701
+Matterhorn,FEATURE_MATTERHORN,Switzerland,Zermatt,Europe,45.97639,7.65819
+Cliff of Dover,FEATURE_CLIFFS_DOVER,UK,Dover,Europe,51.13418,1.35748
+Giant's Causeway,FEATURE_GIANTS_CAUSEWAY,UK,Coleraine,Europe,55.24046,-6.51185
+Bermuda Triangle,FEATURE_BERMUDA_TRIANGLE,US,Bermuda,North America,25,-71
+Crater Lake,FEATURE_CRATER_LAKE,US,Roseburg,North America,42.9438,-122.10906
+Delicate Arch,FEATURE_DELICATE_ARCH,US,Moab,North America,38.74376,-109.49946
+Mato Tipila,FEATURE_DEVILSTOWER,US,sundance,North America,44.59021,-104.71463
+Yosemite,FEATURE_YOSEMITE,US,mariposa,North America,37.86499,-119.53745
+Great Barrier Reef,FEATURE_BARRIER_REEF,Australia,Cairnes,Oceania,-16.92745,146.16681
+Uluru,FEATURE_ULURU,Australia,Alice Springs,Oceania,-25.34457,131.0368
+Piopiotahi,FEATURE_PIOPIOTAHI,New Zealand,Milford Sound,Oceania,-44.64112,167.89759
+Païtiti,FEATURE_PAITITI,Brazil,Rio Branco,South America,-10.03366,-67.81931
+Pantanal,FEATURE_PANTANAL,Brazil,Corumba,South America,-17.8728,-57.44372
+Torres del Paine,FEATURE_TORRES_DEL_PAINE,Chile,Punta Arenas,South America,-50.94235,-73.40681
+Galápagos Islands,FEATURE_GALAPAGOS,Ecuador,Galápagos Islands,South America,-0.63347,-90.97671
+Mount Roraima,FEATURE_RORAIMA,Venezuela,Santa Elena de Uairén,South America,5.13139,-60.75857
