@@ -5,4 +5,4 @@
 
 * Oil: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MEH5CS
 
-
+* Volcano: https://ngdc.noaa.gov/hazel/view/hazards/volcano/loc-data
