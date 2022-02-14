@@ -1,6 +1,8 @@
-* Aluminum: https://www.mindat.org/min-52421.html;https://www.mindat.org/min-107.html;https://pubs.usgs.gov/of/2013/1272/
+* Aluminum: https://www.mindat.org/min-52421.html; https://www.mindat.org/min-107.html; https://pubs.usgs.gov/of/2013/1272/
 
 * Amber: https://www.mindat.org/min-188.html
+
+* Cattle, Horse & Sheep: https://www.nature.com/articles/sdata2018227#Sec9
 
 * Coal: https://globalenergymonitor.org/wp-content/uploads/2022/01/Global-Coal-Mine-Tracker-Jan-2022.xlsx
 
@@ -8,13 +10,15 @@
 
 * Diamonds: https://www.mindat.org/min-1282.html
 
-* Gypsum: https://www.mindat.org/min-1784.html
+* Forest & Jungle: https://pure.iiasa.ac.at/id/eprint/15361/
 
-* Horse: https://doi.org/10.1371/journal.pone.0132359.s007
+* Gypsum: https://www.mindat.org/min-1784.html
 
 * Iron: https://www.mindat.org/min-2047.html
 
 * Jade: https://www.mindat.org/min-10403.html
+
+* Mercury: https://www.mindat.org/min-2647.html
 
 * Niter: https://www.mindat.org/min-2917.html
 
