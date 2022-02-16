@@ -2,6 +2,8 @@
 
 * Amber: https://www.mindat.org/min-188.html
 
+* Bananas, Citrus, Cocoa, Coffee, Cotton, Maize, Olives, Rice, Spices, Sugar, Tea, Tobacco & Wheat: http://www.earthstat.org/
+
 * Cattle, Horse & Sheep: https://www.nature.com/articles/sdata2018227#Sec9
 
 * Coal: https://globalenergymonitor.org/wp-content/uploads/2022/01/Global-Coal-Mine-Tracker-Jan-2022.xlsx
@@ -18,11 +20,15 @@
 
 * Jade: https://www.mindat.org/min-10403.html
 
+* Marble: https://www.mindat.org/min-859.html
+
 * Mercury: https://www.mindat.org/min-2647.html
 
 * Niter: https://www.mindat.org/min-2917.html
 
 * Oil: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MEH5CS
+
+* Salt: https://www.mindat.org/min-1804.html
 
 * Silver: https://www.mindat.org/min-3664.html
 
