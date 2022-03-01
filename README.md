@@ -16,11 +16,9 @@ The problem with TSL earth/huge earth is the ocean, simply too much water on the
 
 ### Scripts
 
-Use python to automate some of the modding process. 
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/basemap2civ6map.ipynb>Basemap2Civ6map Converter</a>
 
-* Create fantastic in-game map from python basemap (of any latitude, longitude, altitude, angle and projection) or any image with designated color2terrain mapping. 
-
-* Automate the geotagging of natural wonders, terrains, features, continents, resources, true start locations of civilizations and city-states.
+The script leverages python to create fantastic in-game map from basemap package (of any latitude, longitude, altitude, angle and projection). This can even be replicated on any image with designated color2terrain mapping. It will automate the geotagging of natural wonders, terrains, features, continents, resources, true start locations of civilizations and city-states. An example is showed below.
 
 Arctic circle from Python Basemap
 
@@ -31,3 +29,19 @@ Arctic circle converted to Civ6Map
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/civ6map.png)
 
 *Source of all geospatial data can be found <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/data/source.md>here</a>.*
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/choropleth%20reader.ipynb>Choropleth Reader</a>
+
+The script can process a choropleth image and reverse engineer colors back to the original scale-free data with latitudes and longitudes.
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/tifreader.ipynb>Geotiff Image Reader</a>
+
+Best tool to recover spatial dataset from geotiff images and filter 95 percentile of the data.
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/mindat.ipynb>Mindat ETL Pipeline</a>
+
+<a href=https://www.mindat.org>Mindat</a> is an excellent and free mineral database. The script scrapes the website to extract localities of different mineral deposits and dump into a nice and tidy dataframe.
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/xmlreader.ipynb>XML Reader</a>
+
+All relevant information regarding terrains, features and resources are stored inside XML files across DLC folders and Base Gameplay folders. This is a friendly helper to aggregate information such as tile size, spawning conditions and probabilities.
