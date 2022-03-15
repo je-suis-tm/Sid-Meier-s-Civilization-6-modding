@@ -14,6 +14,12 @@ The problem with TSL earth/huge earth is the ocean, simply too much water on the
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/civ6map.png)
 
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/ukraine.Civ6Map>Ukraine</a>
+
+To defend people, liberty, sovereignty and civilization, this map focuses on Black Sea and Caspian Sea. To be more specific, the map is a salute to the warriors in Ukraine who bravely fight against the dictator and his invasion. Unfortunately, there is no Ukrainian leader in the game. There are only two options left – Jadwiga of Poland and Tamar of Georgia. Fight for the post-soviet prosperity, fight for the honor and fight for the democracy!
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/ukraine.png)
+
 ### Scripts
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/basemap2civ6map.ipynb>Basemap2Civ6map Converter</a>
