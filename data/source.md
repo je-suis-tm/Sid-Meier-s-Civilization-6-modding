@@ -12,6 +12,8 @@
 
 * Diamonds: https://www.mindat.org/min-1282.html
 
+* Flood plains and Mashes: http://www.ramsar.org/sites/default/files/documents/library/sitelist.pdf
+
 * Forest & Jungle: https://pure.iiasa.ac.at/id/eprint/15361/
 
 * Gypsum: https://www.mindat.org/min-1784.html
