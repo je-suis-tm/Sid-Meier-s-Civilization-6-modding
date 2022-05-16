@@ -6,6 +6,7 @@
 
 Arctic circle is a regional map that covers the majority of the northern hemisphere. The haute couture of this map is the very north. Strategic resources in this map is scarcely distributed across the continents yet concentrated inside Arctic circle. Mineral resources are modified so they can be spawned and mined on the terrains such as snow and snow hill. Leaders in this map have been given carte blanche to tap into the potential resources under the ice. Imagine a war on Greenland or Svalbard over the occurrence of aluminum. Arctic shipping routes become the new normal. This might be the future we are about to live in.
 
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/civ6map.png)
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/le%20monde%20entier.Civ6Map>Distorted Earth</a>
 
