@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding#map-introduction>Map Introductions</a>
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding#map-introductions>Map Introductions</a>
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding#script-instructions>Script Instructions</a>
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding#mod-demonstrations>Mod Demonstrations</a>
 
