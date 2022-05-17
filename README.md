@@ -1,6 +1,12 @@
 # Sid-Meier-s-Civilization-6-modding
 
-### Maps
+## Table of Contents
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding#map-introduction>Map Introductions</a>
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding#script-instructions>Script Instructions</a>
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding#mod-demonstrations>Mod Demonstrations</a>
+
+## Map Introductions
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/arctique.Civ6Map>Arctic Circle</a>
 
@@ -20,11 +26,11 @@ To defend people, liberty, sovereignty and civilization, this map focuses on Bla
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/ukraine.png)
 
-### Scripts
+## Script Instructions
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/basemap2civ6map.ipynb>Basemap2Civ6map Converter</a>
 
-The script leverages python to create fantastic in-game map from basemap package (of any latitude, longitude, altitude, angle and projection). This can even be replicated on any image with designated color2terrain mapping. It will automate the geotagging of natural wonders, terrains, features, continents, resources, true start locations of civilizations and city-states. An example is showed below.
+The script leverages python to create fantastic in-game map from basemap package (of any latitude, longitude, altitude, angle and projection). This can even be replicated on any image with designated color2terrain mapping. It will automate the geotagging of natural wonders, terrains, features, continents, resources, rivers, true start locations of civilizations and city-states. An example is showed below.
 
 Arctic circle from Python Basemap
 
@@ -48,6 +54,16 @@ Best tool to recover spatial dataset from geotiff images and filter 95 percentil
 
 <a href=https://www.mindat.org>Mindat</a> is an excellent and free mineral database. The script scrapes the website to extract localities of different mineral deposits and dump into a nice and tidy dataframe.
 
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/shpreader.ipynb>Shape File Reader</a>
+
+Similar to geotiff image reader, the script utilizes the same package to extract coordinates from shape file.
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/xmlreader.ipynb>XML Reader</a>
 
 All relevant information regarding terrains, features and resources are stored inside XML files across DLC folders and Base Gameplay folders. This is a friendly helper to aggregate information such as tile size, spawning conditions and probabilities.
+
+## Mod Demonstrations
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/riveredge.png)
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/riverdiretion.png)
