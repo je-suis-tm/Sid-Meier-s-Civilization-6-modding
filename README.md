@@ -64,6 +64,8 @@ All relevant information regarding terrains, features and resources are stored i
 
 ## Mod Demonstrations
 
+The river is one of the most complicated features in civ6map. The lack of documentation took me a whole damn afternoon to grasp on how it works in the database. Rivers pass on the edge of each hexagon. There are six edges for each hexagon but each hexagon effectively controls only three edges -- the bottom left, the bottom right and the right. 
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/riveredge.png)
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/riverdiretion.png)
