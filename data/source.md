@@ -6,6 +6,8 @@
 
 * Cattle, Horse & Sheep: https://www.nature.com/articles/sdata2018227#Sec9
 
+* Cliff: https://onlinelibrary.wiley.com/doi/full/10.1002/esp.4574
+
 * Coal: https://globalenergymonitor.org/wp-content/uploads/2022/01/Global-Coal-Mine-Tracker-Jan-2022.xlsx
 
 * Copper: https://www.mindat.org/min-1209.html
