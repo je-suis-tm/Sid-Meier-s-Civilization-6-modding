@@ -30,7 +30,7 @@ To defend people, liberty, sovereignty and civilization, this map focuses on Bla
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/basemap2civ6map.ipynb>Basemap2Civ6map Converter</a>
 
-The script leverages python to create fantastic in-game map from basemap package (of any latitude, longitude, altitude, angle and projection). This can even be replicated on any image with designated color2terrain mapping. It will automate the geotagging of natural wonders, terrains, features, continents, resources, rivers, true start locations of civilizations and city-states. An example is showed below.
+The script leverages python to create fantastic in-game map from basemap package (of any latitude, longitude, altitude, angle and projection). This can even be replicated on any image with designated color2terrain mapping. It will automate the geotagging of natural wonders, terrains, features, continents, resources, rivers, cliffs, true start locations of civilizations and city-states. An example is showed below.
 
 Arctic circle from Python Basemap
 
