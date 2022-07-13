@@ -18,15 +18,35 @@ Arctic circle is a regional map that covers the majority of the northern hemisph
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/arctique.png)
 
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/asean.Civ6Map>ASEAN</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/asean.png)
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/carribean.Civ6Map>Carribean</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/carribean.png)
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/le%20monde%20entier.Civ6Map>Distorted Earth</a>
 
 The problem with TSL earth/huge earth is the ocean, simply too much water on the surface. Civilizations are spending a lot of time sailing rather than exploring. Whereas in distorted earth, only 30% of the surface is water. The map bears a resemblance to TSL earth with a much smaller Atlantic and Pacific. The exciting news is distorted earth doesn’t only preserve most of the terrains, features and resources in TSL earth, but it also includes all the natural wonders, city states and resources which do not get spawned in TSL earth.
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/distorted%20earth.png)
 
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/indo.Civ6Map>Indo Subcontinent</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/indo.png)
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/mideast.Civ6Map>Middle East</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/arab.png)
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/oceania.Civ6Map>Oceania</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/oceania.png)
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/sahara.Civ6Map>Sahara</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/sahara.png)
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/ukraine.Civ6Map>Ukraine</a>
 
