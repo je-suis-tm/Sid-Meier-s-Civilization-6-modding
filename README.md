@@ -36,9 +36,9 @@ The problem with TSL earth/huge earth is the ocean, simply too much water on the
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/indo.png)
 
-* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/royaume uni.Civ6Map>King Arthur</a>
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/royaume%20uni.Civ6Map>King Arthur</a>
 
-![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/royaume uni.png)
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/royaume%20uni.png)
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/mideast.Civ6Map>Middle East</a>
 
@@ -58,7 +58,7 @@ To defend people, liberty, sovereignty and civilization, this map focuses on Bla
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/ukraine.png)
 
-* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/viking.Civ6Map>Norse</a>
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/viking.Civ6Map>Viking</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/viking.png)
 
