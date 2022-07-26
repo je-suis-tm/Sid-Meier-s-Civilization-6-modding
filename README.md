@@ -26,6 +26,10 @@ Arctic circle is a regional map that covers the majority of the northern hemisph
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/asean.png)
 
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/baltique.Civ6Map>Baltic Sea</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/baltique.png)
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/carribean.Civ6Map>Carribean</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/carribean.png)
@@ -34,11 +38,23 @@ Arctic circle is a regional map that covers the majority of the northern hemisph
 
 The problem with TSL earth/huge earth is the ocean, simply too much water on the surface. Civilizations are spending a lot of time sailing rather than exploring. Whereas in distorted earth, only 30% of the surface is water. The map bears a resemblance to TSL earth with a much smaller Atlantic and Pacific. The exciting news is distorted earth doesn’t only preserve most of the terrains, features and resources in TSL earth, but it also includes all the natural wonders, city states and resources which do not get spawned in TSL earth.
 
-![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/distorted%20earth.png)
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/distorted%20earth.png
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/grec.Civ6Map>Greece</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/grec.png)
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/iberia.Civ6Map>Iberian Peninsula</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/iberia.png)
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/indo.Civ6Map>Indo Subcontinent</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/indo.png)
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/italia.Civ6Map>Italia</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/italia.png)
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/royaume%20uni.Civ6Map>King Arthur</a>
 
@@ -63,6 +79,10 @@ The problem with TSL earth/huge earth is the ocean, simply too much water on the
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/sahara.Civ6Map>Sahara</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/sahara.png)
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/amerique%20du%20sud.Civ6Map>South America</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/amerique%20du%20sud.png)
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/ukraine.Civ6Map>Ukraine</a>
 
