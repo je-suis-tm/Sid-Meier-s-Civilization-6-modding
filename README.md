@@ -136,6 +136,8 @@ The river is one of the most complicated features in civ6map. The lack of docume
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/riveredge.png)
 
+The flow direction is purely clockwise. In clockwise direction, the first edge of the hexagon is 0, the second is 1, so on and so forth. When no water flows through the edge, the direction is denoted by -1.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/riverdiretion.png)
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/riverflow.png)
