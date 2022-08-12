@@ -132,7 +132,7 @@ All relevant information regarding terrains, features and resources are stored i
 
 ## Mod Demonstrations
 
-The river is one of the most complicated features in civ6map. The lack of documentation took me a whole damn afternoon to grasp on how it works in the database. Rivers pass on the edge of each hexagon. There are six edges for each hexagon but each hexagon effectively controls only three edges -- the bottom left, the bottom right and the right. 
+The river is one of the most complicated features in civ6map. The lack of documentation took me a whole damn afternoon to grasp on how it works in the database. Rivers pass on the edge of each hexagon. There are six edges for each hexagon but each hexagon effectively controls only three edges -- the bottom left, the bottom right and the right. Normally we’d call them southwest, southeast and east edge of a hexagon. However, they are called northeast, northwest and west in civ6map as the orientation is based upon the hexagon that share a common edge with our target ID.
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/riveredge.png)
 
