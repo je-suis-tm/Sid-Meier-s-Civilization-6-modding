@@ -8,6 +8,8 @@
 
 ## Map Introductions
 
+Place Civ6Map file under the directory of `C:\Users\{your user name}\Documents\My Games\Sid Meier's Civilization VI\Saves\WorldBuilder`.
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/afrique.Civ6Map>Africa</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/afrique.png)
