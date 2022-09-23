@@ -8,15 +8,27 @@
 
 ## Map Introductions
 
-Place Civ6Map file under the directory of `C:\Users\{your user name}\Documents\My Games\Sid Meier's Civilization VI\Saves\WorldBuilder`.
+**To play custom map as a mod, place Civ6Map file under the directory of `C:\Users\{your user name}\Documents\My Games\Sid Meier's Civilization VI\Saves\WorldBuilder`.**
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/afrique.Civ6Map>Africa</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/afrique.png)
 
+Civlizations:  Arab, Athens, Babylon, Byzantine, Egypt, Ethiopia, France Culture, France Eleanor, France Espionage, Georgia, Germany, Hungary, Kongo, Macedonia, Mali, Netherlands, Nubia, Ottoman, Persia, Phoenicia, Poland, Portugal, Rome, Scythia, Spain, Sparta, Sumer, UK Eleanor, UK Victoria, Zulu
+
+City States:  Akkad, Antananarivo, Armagh, Bologna, Brussels, Cardiff, Carthage, Chinguetti, Fes, Geneva, Granada, Hattusa, Jerusalem, Johannesburg, Kumasi, Mogadishu, Ngazargamu, Preslav, Taruga, Valletta, Venice, Vilnius, Wolin, Yerevan, Zanzibar
+
+Natural Wonders:  Cliff of Dover, Dead Sea, Eye of Sahara, Fountain of Youth, Giant's Causeway, Gobustan, Lake Retba, Matterhorn, Mount Vesuvius , Mount Kilimanjaro, Pamukkale, Sahara el Beyda, Tsingy de Bemaraha
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/antarctique.Civ6Map>Antartic Circle</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/antarctique.png)
+
+Civlizations:  Australia, Brazil, China Kubilai, Colombia, Inca, Indonesia, Kongo, Mali, Maori, Mapuche, Zulu
+
+City States:  Antananarivo, Auckland, Bandar Brunei, Buenos Aires, Chinguetti, Fes, Granada, Hong Kong, Hunza, Johannesburg, Kumasi, Nan Madol, Nazca, Ngazargamu, Rapa Nui, Singapore, Taruga
+
+Natural Wonders:  Chocolate Hills, Eye of Sahara, Fountain of Youth, Great Barrier Reef, Lake Retba, Mount Roraima, Pantanal, Païtiti, Piopiotahi, Torres del Paine, Tsingy de Bemaraha, Uluru
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/arctique.Civ6Map>Arctic Circle</a>
 
@@ -24,17 +36,41 @@ Arctic circle is a regional map that covers the majority of the northern hemisph
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/arctique.png)
 
+Civlizations:  America Cavalry, America Government, Canada, China Kubilai, China Qin, Cree, France Culture, France Eleanor, France Espionage, Germany, India Ghandi, Japan, Mongolia Kubilai, Netherlands, Norway, Poland, Russia, Scotland, Scythia, Sweden, UK Eleanor, UK Victoria
+
+City States:  Armagh, Brussels, Caguana, Cahokia, Cardiff, Geneva, La venta, Lahore, Nalanda, Samarkand, Vilnius, Wolin
+
+Natural Wonders:  Bermuda Triangle, Cliff of Dover, Crater Lake, Delicate Arch, Eyjafjallajökull, Fountain of Youth, Giant's Causeway, Ik-Kil, Lysefjord, Mato Tipila, Mount Everest, Ubsunur Hollow, Yosemite, Zhangye Danxia
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/asean.Civ6Map>ASEAN</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/asean.png)
+
+Civlizations:  Australia, Indonesia, Khmer, Maori, Vietnam
+
+City States:  Ayutthaya, Bandar Brunei, Singapore
+
+Natural Wonders:  Chocolate Hills, Fountain of Youth, Great Barrier Reef, Hạ Long Bay
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/baltique.Civ6Map>Baltic Sea</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/baltique.png)
 
+Civlizations:  Norway, Poland, Russia, Sweden
+
+City States:  Vilnius, Wolin
+
+Natural Wonders:  Fountain of Youth, Lysefjord
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/carribean.Civ6Map>Carribean</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/carribean.png)
+
+Civlizations:  America Cavalry, America Government, Aztec, Colombia, France Culture, France Eleanor, France Espionage, Maya, Netherlands, Spain, UK Eleanor, UK Victoria
+
+City States:  Caguana, Hunza, La venta, Mitla
+
+Natural Wonders:  Bermuda Triangle, Fountain of Youth, Ik-Kil
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/le%20monde%20entier.Civ6Map>Distorted Earth</a>
 
@@ -42,49 +78,121 @@ The problem with TSL earth/huge earth is the ocean, simply too much water on the
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/distorted%20earth.png)
 
-* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/grec.Civ6Map>Greece</a>
+Civlizations:  America Cavalry, America Government, Arab, Athens, Australia, Aztec, Babylon, Brazil, Byzantine, Canada, China Kubilai, China Qin, Colombia, Cree, Egypt, Ethiopia, France Culture, France Eleanor, France Espionage, Gaul, Georgia, Germany, Hungary, Inca, India Ghandi, India Maurya, Indonesia, Japan, Khmer, Kongo, Korea, Macedonia, Mali, Maori, Mapuche, Maya, Mongolia Genghis, Mongolia Kubilai, Netherlands, Norway, Nubia, Ottoman, Persia, Phoenicia, Poland, Portugal, Rome, Russia, Scotland, Scythia, Spain, Sparta, Sumer, Sweden, UK Eleanor, UK Victoria, Vietnam, Zulu
+
+City States:  Akkad, Anshan, Antananarivo, Armagh, Auckland, Ayutthaya, Bandar Brunei, Bologna, Brussels, Buenos Aires, Caguana, Cahokia, Cardiff, Carthage, Chinguetti, Fes, Geneva, Granada, Hattusa, Hong Kong, Hunza, Jerusalem, Johannesburg, Kabul, Kandy, Kumasi, La venta, Lahore, Mexico City, Mitla, Mogadishu, Mohenjo-Daro, Muscat, Nalanda, Nan Madol, Nazca, Ngazargamu, Preslav, Rapa Nui, Samarkand, Singapore, Stockholm, Taruga, Valletta, Vatican City, Venice, Vilnius, Wolin, Yerevan, Zanzibar
+
+Natural Wonders:  Bermuda Triangle, Chocolate Hills, Cliff of Dover, Crater Lake, Dead Sea, Delicate Arch, Eye of Sahara, Eyjafjallajökull, Fountain of Youth, Galápagos Islands, Giant's Causeway, Gobustan, Great Barrier Reef, Hạ Long Bay, Ik-Kil, Lake Retba, Lysefjord, Mato Tipila, Matterhorn, Mount Everest, Mount Roraima, Mount Vesuvius , Mount Kilimanjaro, Pamukkale, Pantanal, Païtiti, Piopiotahi, Sahara el Beyda, Torres del Paine, Tsingy de Bemaraha, Ubsunur Hollow, Uluru, Yosemite, Zhangye Danxia
+
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/grec.Civ6Map>Aegan Sea</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/grec.png)
+
+Civlizations:  Athens, Byzantine, Macedonia, Ottoman, Phoenicia, Sparta
+
+City States:  Hattusa, Preslav
+
+Natural Wonders:  Fountain of Youth, Pamukkale
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/iberia.Civ6Map>Iberian Peninsula</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/iberia.png)
 
+Civlizations:  France Culture, France Eleanor, France Espionage, Portugal, Spain
+
+City States:  Fes, Granada
+
+Natural Wonders:  Fountain of Youth
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/indo.Civ6Map>Indo Subcontinent</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/indo.png)
+
+Civlizations:  Babylon, China Qin, India Ghandi, India Maurya, Khmer, Persia, Sumer, Vietnam
+
+City States:  Akkad, Anshan, Ayutthaya, Kabul, Kandy, Lahore, Mohenjo-Daro, Muscat, Nalanda, Samarkand
+
+Natural Wonders:  Fountain of Youth, Mount Everest
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/italia.Civ6Map>Italia</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/italia.png)
 
+Civlizations:  Hungary, Rome
+
+City States:  Bologna, Carthage, Geneva, Valletta, Venice
+
+Natural Wonders:  Fountain of Youth, Matterhorn, Mount Vesuvius 
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/royaume%20uni.Civ6Map>King Arthur</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/royaume%20uni.png)
+
+Civlizations:  France Culture, Scotland, UK Eleanor, UK Victoria
+
+City States:  Armagh, Cardiff
+
+Natural Wonders:  Cliff of Dover, Fountain of Youth, Giant's Causeway
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/mideast.Civ6Map>Middle East</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/arab.png)
 
+Civlizations:  Arab, Athens, Babylon, Byzantine, Egypt, Ethiopia, Georgia, Macedonia, Nubia, Ottoman, Persia, Phoenicia, Sparta, Sumer
+
+City States:  Akkad, Carthage, Hattusa, Jerusalem, Kabul, Lahore, Mohenjo-Daro, Muscat, Ngazargamu, Samarkand, Valletta, Yerevan
+
+Natural Wonders:  Dead Sea, Fountain of Youth, Gobustan, Mount Vesuvius , Pamukkale, Sahara el Beyda
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/amerique%20du%20nord.Civ6Map>North America</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/amerique%20du%20nord.png)
+
+Civlizations:  America Cavalry, America Government, Aztec, Canada, Cree, Maya
+
+City States:  Cahokia, La venta, Mitla
+
+Natural Wonders:  Bermuda Triangle, Crater Lake, Delicate Arch, Eyjafjallajökull, Fountain of Youth, Galápagos Islands, Ik-Kil, Lysefjord, Mato Tipila, Yosemite
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/oceania.Civ6Map>Oceania</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/oceania.png)
 
+Civlizations:  Australia, Indonesia, Maori
+
+City States:  Auckland
+
+Natural Wonders:  Fountain of Youth, Great Barrier Reef, Piopiotahi, Uluru
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/mer%20rouge.Civ6Map>Red Sea</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/mer%20rouge.png)
+
+Civlizations:  Arab, Babylon, Egypt, Ethiopia, Nubia, Phoenicia, Sumer
+
+City States:  Akkad, Jerusalem
+
+Natural Wonders:  Dead Sea, Fountain of Youth, Sahara el Beyda
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/sahara.Civ6Map>Sahara</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/sahara.png)
 
+Civlizations:  Arab, Babylon, Egypt, Ethiopia, Mali, Nubia, Phoenicia, Sparta, Sumer
+
+City States:  Akkad, Carthage, Chinguetti, Fes, Granada, Jerusalem, Kumasi, Ngazargamu, Taruga, Valletta
+
+Natural Wonders:  Dead Sea, Eye of Sahara, Fountain of Youth, Lake Retba, Sahara el Beyda
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/amerique%20du%20sud.Civ6Map>South America</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/amerique%20du%20sud.png)
+
+Civlizations:  Brazil, Colombia, Inca, Mapuche
+
+City States:  Buenos Aires, Caguana, Hunza, Nazca
+
+Natural Wonders:  Fountain of Youth, Mount Roraima, Pantanal, Païtiti, Torres del Paine
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/ukraine.Civ6Map>Ukraine</a>
 
@@ -92,9 +200,21 @@ To defend people, liberty, sovereignty and civilization, this map focuses on Bla
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/ukraine.png)
 
+Civlizations:  Georgia, Macedonia, Poland, Russia, Sweden
+
+City States:  Wolin
+
+Natural Wonders:  Fountain of Youth, Gobustan
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/viking.Civ6Map>Viking</a>
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/viking.png)
+
+Civlizations:  France Culture, Germany, Hungary, Netherlands, Norway, Ottoman, Poland, Russia, Scotland, Sweden, UK Eleanor, UK Victoria
+
+City States:  Armagh, Brussels, Cardiff, Preslav, Vilnius, Wolin
+
+Natural Wonders:  Cliff of Dover, Eyjafjallajökull, Fountain of Youth, Giant's Causeway, Lysefjord
 
 ## Script Instructions
 
