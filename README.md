@@ -12,13 +12,15 @@
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/afrique.Civ6Map>Africa</a>
 
+Africa, birthplace of mankind, is the second largest continent with a vast amount of untapped natural resources. Since the map covers more than just Africa, you get to choose your role in the game. Whether the indigenous tribe leader who intends to fight the intruders or the foreign colonizer who seeks to exploit the exotic land, everyone can find a role to play in the long history of the civilization.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/afrique.png)
 
-Civlizations:  Arab, Athens, Babylon, Byzantine, Egypt, Ethiopia, France Culture, France Eleanor, France Espionage, Georgia, Germany, Hungary, Kongo, Macedonia, Mali, Netherlands, Nubia, Ottoman, Persia, Phoenicia, Poland, Portugal, Rome, Scythia, Spain, Sparta, Sumer, UK Eleanor, UK Victoria, Zulu
+*Civlizations:  Arab, Athens, Babylon, Byzantine, Egypt, Ethiopia, France Culture, France Eleanor, France Espionage, Georgia, Germany, Hungary, Kongo, Macedonia, Mali, Netherlands, Nubia, Ottoman, Persia, Phoenicia, Poland, Portugal, Rome, Scythia, Spain, Sparta, Sumer, UK Eleanor, UK Victoria, Zulu
 
 City States:  Akkad, Antananarivo, Armagh, Bologna, Brussels, Cardiff, Carthage, Chinguetti, Fes, Geneva, Granada, Hattusa, Jerusalem, Johannesburg, Kumasi, Mogadishu, Ngazargamu, Preslav, Taruga, Valletta, Venice, Vilnius, Wolin, Yerevan, Zanzibar
 
-Natural Wonders:  Cliff of Dover, Dead Sea, Eye of Sahara, Fountain of Youth, Giant's Causeway, Gobustan, Lake Retba, Matterhorn, Mount Vesuvius , Mount Kilimanjaro, Pamukkale, Sahara el Beyda, Tsingy de Bemaraha
+Natural Wonders:  Cliff of Dover, Dead Sea, Eye of Sahara, Fountain of Youth, Giant's Causeway, Gobustan, Lake Retba, Matterhorn, Mount Vesuvius , Mount Kilimanjaro, Pamukkale, Sahara el Beyda, Tsingy de Bemaraha*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/antarctique.Civ6Map>Antartic Circle</a>
 
