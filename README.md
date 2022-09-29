@@ -48,9 +48,9 @@ Natural Wonders:  Bermuda Triangle, Cliff of Dover, Crater Lake, Delicate Arch, 
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/asean.Civ6Map>ASEAN</a>
 
-![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/asean.png)
-
 Say you want to play the map of archipelago because you are a leader of maritime civilization. What could be better than Southeast Asia where you have more than twenty-five thousand islands in the region? Sailing rafts in the uncharted water to conquer tropical islands is the only way to bring prosperity in this map. Embrace the wildfire, the volcano eruption and the flood. Good rewards come after navigating these natural disasters well.
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/asean.png)
 
 *Civlizations:  Australia, Indonesia, Khmer, Maori, Vietnam*
 
