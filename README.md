@@ -214,13 +214,15 @@ Natural Wonders:  Fountain of Youth, Gobustan
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/viking.Civ6Map>Viking</a>
 
+What could be the destiny of Vikings? Aquaculture in Vinland, Ragnarok in Valhalla, longship to Faroes or pillages and raids in Anglo-Saxon? Yes, this is what the map of Scandinavian peninsula is about. Now the chance is given to reshape the narrative of your civilization in Norse mythology. The population is booming and the food yield is stagnant. Grab the axe and the shield to expand the territory.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/viking.png)
 
-Civlizations:  France Culture, Germany, Hungary, Netherlands, Norway, Ottoman, Poland, Russia, Scotland, Sweden, UK Eleanor, UK Victoria
+*Civlizations:  France Culture, Germany, Hungary, Netherlands, Norway, Ottoman, Poland, Russia, Scotland, Sweden, UK Eleanor, UK Victoria*
 
-City States:  Armagh, Brussels, Cardiff, Preslav, Vilnius, Wolin
+*City States:  Armagh, Brussels, Cardiff, Preslav, Vilnius, Wolin*
 
-Natural Wonders:  Cliff of Dover, Eyjafjallajökull, Fountain of Youth, Giant's Causeway, Lysefjord
+*Natural Wonders:  Cliff of Dover, Eyjafjallajökull, Fountain of Youth, Giant's Causeway, Lysefjord*
 
 ## Script Instructions
 
