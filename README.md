@@ -10,6 +10,16 @@
 
 **To play custom map as a mod, place Civ6Map file under the directory of `C:\Users\{your user name}\Documents\My Games\Sid Meier's Civilization VI\Saves\WorldBuilder`.**
 
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/grec.Civ6Map>Aegan Sea</a>
+
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/grec.png)
+
+Civlizations:  Athens, Byzantine, Macedonia, Ottoman, Phoenicia, Sparta
+
+City States:  Hattusa, Preslav
+
+Natural Wonders:  Fountain of Youth, Pamukkale
+
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/afrique.Civ6Map>Africa</a>
 
 Africa, birthplace of mankind, is the second largest continent with a vast amount of untapped natural resources. Since the map covers more than just Africa, you get to choose your role in the game. Whether the indigenous tribe leader who intends to fight the intruders or the foreign colonizer who seeks to exploit the exotic land, everyone can find a role to play in the long history of the civilization.
@@ -89,16 +99,6 @@ Civlizations:  America Cavalry, America Government, Arab, Athens, Australia, Azt
 City States:  Akkad, Anshan, Antananarivo, Armagh, Auckland, Ayutthaya, Bandar Brunei, Bologna, Brussels, Buenos Aires, Caguana, Cahokia, Cardiff, Carthage, Chinguetti, Fes, Geneva, Granada, Hattusa, Hong Kong, Hunza, Jerusalem, Johannesburg, Kabul, Kandy, Kumasi, La venta, Lahore, Mexico City, Mitla, Mogadishu, Mohenjo-Daro, Muscat, Nalanda, Nan Madol, Nazca, Ngazargamu, Preslav, Rapa Nui, Samarkand, Singapore, Stockholm, Taruga, Valletta, Vatican City, Venice, Vilnius, Wolin, Yerevan, Zanzibar
 
 Natural Wonders:  Bermuda Triangle, Chocolate Hills, Cliff of Dover, Crater Lake, Dead Sea, Delicate Arch, Eye of Sahara, Eyjafjallajökull, Fountain of Youth, Galápagos Islands, Giant's Causeway, Gobustan, Great Barrier Reef, Hạ Long Bay, Ik-Kil, Lake Retba, Lysefjord, Mato Tipila, Matterhorn, Mount Everest, Mount Roraima, Mount Vesuvius , Mount Kilimanjaro, Pamukkale, Pantanal, Païtiti, Piopiotahi, Sahara el Beyda, Torres del Paine, Tsingy de Bemaraha, Ubsunur Hollow, Uluru, Yosemite, Zhangye Danxia
-
-* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/grec.Civ6Map>Aegan Sea</a>
-
-![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/grec.png)
-
-Civlizations:  Athens, Byzantine, Macedonia, Ottoman, Phoenicia, Sparta
-
-City States:  Hattusa, Preslav
-
-Natural Wonders:  Fountain of Youth, Pamukkale
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/iberia.Civ6Map>Iberian Peninsula</a>
 
