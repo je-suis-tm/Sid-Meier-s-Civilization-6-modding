@@ -16,11 +16,11 @@ Aegean Sea, the cradle of European civilizations, hosts five different civilizat
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/grec.png)
 
-Civlizations:  Athens, Byzantine, Macedonia, Ottoman, Phoenicia, Sparta
+*Civlizations:  Athens, Byzantine, Macedonia, Ottoman, Phoenicia, Sparta*
 
-City States:  Hattusa, Preslav
+*City States:  Hattusa, Preslav*
 
-Natural Wonders:  Fountain of Youth, Pamukkale
+*Natural Wonders:  Fountain of Youth, Pamukkale*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/afrique.Civ6Map>Africa</a>
 
