@@ -52,11 +52,11 @@ Arctic circle is a regional map that covers the majority of the northern hemisph
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/arctique.png)
 
-Civlizations:  America Cavalry, America Government, Canada, China Kubilai, China Qin, Cree, France Culture, France Eleanor, France Espionage, Germany, India Ghandi, Japan, Mongolia Kubilai, Netherlands, Norway, Poland, Russia, Scotland, Scythia, Sweden, UK Eleanor, UK Victoria
+*Civlizations:  America Cavalry, America Government, Canada, China Kubilai, China Qin, Cree, France Culture, France Eleanor, France Espionage, Germany, India Ghandi, Japan, Mongolia Kubilai, Netherlands, Norway, Poland, Russia, Scotland, Scythia, Sweden, UK Eleanor, UK Victoria*
 
-City States:  Armagh, Brussels, Caguana, Cahokia, Cardiff, Geneva, La venta, Lahore, Nalanda, Samarkand, Vilnius, Wolin
+*City States:  Armagh, Brussels, Caguana, Cahokia, Cardiff, Geneva, La venta, Lahore, Nalanda, Samarkand, Vilnius, Wolin*
 
-Natural Wonders:  Bermuda Triangle, Cliff of Dover, Crater Lake, Delicate Arch, Eyjafjallajökull, Fountain of Youth, Giant's Causeway, Ik-Kil, Lysefjord, Mato Tipila, Mount Everest, Ubsunur Hollow, Yosemite, Zhangye Danxia
+*Natural Wonders:  Bermuda Triangle, Cliff of Dover, Crater Lake, Delicate Arch, Eyjafjallajökull, Fountain of Youth, Giant's Causeway, Ik-Kil, Lysefjord, Mato Tipila, Mount Everest, Ubsunur Hollow, Yosemite, Zhangye Danxia*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/asean.Civ6Map>ASEAN</a>
 
@@ -96,11 +96,11 @@ The problem with TSL earth/huge earth is the ocean, simply too much water on the
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/distorted%20earth.png)
 
-Civlizations:  America Cavalry, America Government, Arab, Athens, Australia, Aztec, Babylon, Brazil, Byzantine, Canada, China Kubilai, China Qin, Colombia, Cree, Egypt, Ethiopia, France Culture, France Eleanor, France Espionage, Gaul, Georgia, Germany, Hungary, Inca, India Ghandi, India Maurya, Indonesia, Japan, Khmer, Kongo, Korea, Macedonia, Mali, Maori, Mapuche, Maya, Mongolia Genghis, Mongolia Kubilai, Netherlands, Norway, Nubia, Ottoman, Persia, Phoenicia, Poland, Portugal, Rome, Russia, Scotland, Scythia, Spain, Sparta, Sumer, Sweden, UK Eleanor, UK Victoria, Vietnam, Zulu
+*Civlizations:  America Cavalry, America Government, Arab, Athens, Australia, Aztec, Babylon, Brazil, Byzantine, Canada, China Kubilai, China Qin, Colombia, Cree, Egypt, Ethiopia, France Culture, France Eleanor, France Espionage, Gaul, Georgia, Germany, Hungary, Inca, India Ghandi, India Maurya, Indonesia, Japan, Khmer, Kongo, Korea, Macedonia, Mali, Maori, Mapuche, Maya, Mongolia Genghis, Mongolia Kubilai, Netherlands, Norway, Nubia, Ottoman, Persia, Phoenicia, Poland, Portugal, Rome, Russia, Scotland, Scythia, Spain, Sparta, Sumer, Sweden, UK Eleanor, UK Victoria, Vietnam, Zulu*
 
-City States:  Akkad, Anshan, Antananarivo, Armagh, Auckland, Ayutthaya, Bandar Brunei, Bologna, Brussels, Buenos Aires, Caguana, Cahokia, Cardiff, Carthage, Chinguetti, Fes, Geneva, Granada, Hattusa, Hong Kong, Hunza, Jerusalem, Johannesburg, Kabul, Kandy, Kumasi, La venta, Lahore, Mexico City, Mitla, Mogadishu, Mohenjo-Daro, Muscat, Nalanda, Nan Madol, Nazca, Ngazargamu, Preslav, Rapa Nui, Samarkand, Singapore, Stockholm, Taruga, Valletta, Vatican City, Venice, Vilnius, Wolin, Yerevan, Zanzibar
+*City States:  Akkad, Anshan, Antananarivo, Armagh, Auckland, Ayutthaya, Bandar Brunei, Bologna, Brussels, Buenos Aires, Caguana, Cahokia, Cardiff, Carthage, Chinguetti, Fes, Geneva, Granada, Hattusa, Hong Kong, Hunza, Jerusalem, Johannesburg, Kabul, Kandy, Kumasi, La venta, Lahore, Mexico City, Mitla, Mogadishu, Mohenjo-Daro, Muscat, Nalanda, Nan Madol, Nazca, Ngazargamu, Preslav, Rapa Nui, Samarkand, Singapore, Stockholm, Taruga, Valletta, Vatican City, Venice, Vilnius, Wolin, Yerevan, Zanzibar*
 
-Natural Wonders:  Bermuda Triangle, Chocolate Hills, Cliff of Dover, Crater Lake, Dead Sea, Delicate Arch, Eye of Sahara, Eyjafjallajökull, Fountain of Youth, Galápagos Islands, Giant's Causeway, Gobustan, Great Barrier Reef, Hạ Long Bay, Ik-Kil, Lake Retba, Lysefjord, Mato Tipila, Matterhorn, Mount Everest, Mount Roraima, Mount Vesuvius , Mount Kilimanjaro, Pamukkale, Pantanal, Païtiti, Piopiotahi, Sahara el Beyda, Torres del Paine, Tsingy de Bemaraha, Ubsunur Hollow, Uluru, Yosemite, Zhangye Danxia
+*Natural Wonders:  Bermuda Triangle, Chocolate Hills, Cliff of Dover, Crater Lake, Dead Sea, Delicate Arch, Eye of Sahara, Eyjafjallajökull, Fountain of Youth, Galápagos Islands, Giant's Causeway, Gobustan, Great Barrier Reef, Hạ Long Bay, Ik-Kil, Lake Retba, Lysefjord, Mato Tipila, Matterhorn, Mount Everest, Mount Roraima, Mount Vesuvius , Mount Kilimanjaro, Pamukkale, Pantanal, Païtiti, Piopiotahi, Sahara el Beyda, Torres del Paine, Tsingy de Bemaraha, Ubsunur Hollow, Uluru, Yosemite, Zhangye Danxia*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/iberia.Civ6Map>Iberian Peninsula</a>
 
@@ -208,11 +208,11 @@ To defend people, liberty, sovereignty and civilization, this map focuses on Bla
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/ukraine.png)
 
-Civlizations:  Georgia, Macedonia, Poland, Russia, Sweden
+*Civlizations:  Georgia, Macedonia, Poland, Russia, Sweden*
 
-City States:  Wolin
+*City States:  Wolin*
 
-Natural Wonders:  Fountain of Youth, Gobustan
+*Natural Wonders:  Fountain of Youth, Gobustan*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/viking.Civ6Map>Viking</a>
 
