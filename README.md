@@ -10,7 +10,9 @@
 
 **To play custom map as a mod, place Civ6Map file under the directory of `C:\Users\{your user name}\Documents\My Games\Sid Meier's Civilization VI\Saves\WorldBuilder`.**
 
-* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/grec.Civ6Map>Aegan Sea</a>
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/grec.Civ6Map>Aegean Sea</a>
+
+Aegean Sea, the cradle of European civilizations, hosts five different civilization leaders. In contrast to few hexagons in True Start Europe or Mediterranean, this map grants the possibility of chariots, horsemen, galleys and quadriremes fighting on the enormous area of land and sea. To revive the glory of Roman empire, one must reign the fertile land of Constantinople and conquer Mount Olympus. 
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/grec.png)
 
