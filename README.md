@@ -83,6 +83,7 @@ Natural Wonders:  Fountain of Youth, Lysefjord
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/caribbean.Civ6Map>Caribbean</a>
 
 > This is the day you will always remember as the day you almost caught Captain Jack Sparrow.
+
 Yes, that’s what Caribbean map is all about. We all know the original game offers The Pirates scenario which resembles Sid Meier's Pirates but that doesn’t feel like a true civilization game. In this map, you get to play as indigenous leaders in Mesoamerica or four colonization powers plus Teddy Roosevelt. Be aware of Black Pearl Frigate. The pirates will raid the merchant ships and bury your treasure in a remote island. Also, these pirates are seeking the legendary natural wonder — youth fountain. It will be a fool not to join, savvy?
 
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/caribbean.png)
