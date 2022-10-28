@@ -80,15 +80,18 @@ City States:  Vilnius, Wolin
 
 Natural Wonders:  Fountain of Youth, Lysefjord
 
-* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/carribean.Civ6Map>Carribean</a>
+* <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/caribbean.Civ6Map>Caribbean</a>
 
-![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/carribean.png)
+> This is the day you will always remember as the day you almost caught Captain Jack Sparrow.
+Yes, that’s what Caribbean map is all about. We all know the original game offers The Pirates scenario which resembles Sid Meier's Pirates but that doesn’t feel like a true civilization game. In this map, you get to play as indigenous leaders in Mesoamerica or four colonization powers plus Teddy Roosevelt. Be aware of Black Pearl Frigate. The pirates will raid the merchant ships and bury your treasure in a remote island. Also, these pirates are seeking the legendary natural wonder — youth fountain. It will be a fool not to join, savvy?
 
-Civlizations:  America Cavalry, America Government, Aztec, Colombia, France Culture, France Eleanor, France Espionage, Maya, Netherlands, Spain, UK Eleanor, UK Victoria
+![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/caribbean.png)
 
-City States:  Caguana, Hunza, La venta, Mitla
+*Civlizations:  America Cavalry, America Government, Aztec, Colombia, France Culture, France Eleanor, France Espionage, Maya, Netherlands, Spain, UK Eleanor, UK Victoria*
 
-Natural Wonders:  Bermuda Triangle, Fountain of Youth, Ik-Kil
+*City States:  Caguana, Hunza, La venta, Mitla*
+
+*Natural Wonders:  Bermuda Triangle, Fountain of Youth, Ik-Kil*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/le%20monde%20entier.Civ6Map>Distorted Earth</a>
 
