@@ -72,13 +72,15 @@ Say you want to play the map of archipelago because you are a leader of maritime
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/baltique.Civ6Map>Baltic Sea</a>
 
+There is only one strategic chokepoint in north Europe – Baltic Sea. From Vikings to Tsars, everyone is fighting for the area where amber is scattered like shellfish. Amber is like bonus resource rather than luxury resource in this map. The dynamic weather in Scandinavian Peninsula is always a challenge. Extensive coverage of forests, tundra combined with unpredictable blizzards is the ultimate survival test of great civilizations.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/baltique.png)
 
-Civlizations:  Norway, Poland, Russia, Sweden
+*Civlizations:  Norway, Poland, Russia, Sweden*
 
-City States:  Vilnius, Wolin
+*City States:  Vilnius, Wolin*
 
-Natural Wonders:  Fountain of Youth, Lysefjord
+*Natural Wonders:  Fountain of Youth, Lysefjord*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/caribbean.Civ6Map>Caribbean</a>
 
