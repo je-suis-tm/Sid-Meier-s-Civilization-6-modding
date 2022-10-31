@@ -108,13 +108,15 @@ The problem with TSL earth/huge earth is the ocean, simply too much water on the
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/iberia.Civ6Map>Iberian Peninsula</a>
 
+This is the land where both Romans and Moors have ruled. Islam used to co-exist in harmony with Christianity. Build Casa de Contratación if you want to be a colonizer and leave your footprints to the other side of Mediterranean Sea. Or build Alhambra Palace if you intend to start a civil war and unify Al-Andalus. Or build Torre de Belém if you chase mercantilism and ignite the spark of Age of Sail.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/iberia.png)
 
-Civlizations:  France Culture, France Eleanor, France Espionage, Portugal, Spain
+*Civlizations:  France Culture, France Eleanor, France Espionage, Portugal, Spain*
 
-City States:  Fes, Granada
+*City States:  Fes, Granada*
 
-Natural Wonders:  Fountain of Youth
+*Natural Wonders:  Fountain of Youth*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/indo.Civ6Map>Indo Subcontinent</a>
 
