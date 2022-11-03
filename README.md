@@ -122,13 +122,15 @@ This is the land where both Romans and Moors have ruled. Islam used to co-exist 
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/indo.Civ6Map>Indo Subcontinent</a>
 
+Indian subcontinent is the birthplace of Hinduism, Buddhism, Sikhism and Jainism. With Tibetan Plateaus and Himalaya mountains at the north, this is the scared battlefield for apostles. The diversity of religions also nurtures the richness of cultures. The great prosperity in this map lies in the shrines and the wonders you build. West to Arab and east to ASEAN, make good use of Indian Ocean to expand your cultural and religion influence.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/indo.png)
 
-Civlizations:  Babylon, China Qin, India Ghandi, India Maurya, Khmer, Persia, Sumer, Vietnam
+*Civlizations:  Babylon, China Qin, India Ghandi, India Maurya, Khmer, Persia, Sumer, Vietnam*
 
-City States:  Akkad, Anshan, Ayutthaya, Kabul, Kandy, Lahore, Mohenjo-Daro, Muscat, Nalanda, Samarkand
+*City States:  Akkad, Anshan, Ayutthaya, Kabul, Kandy, Lahore, Mohenjo-Daro, Muscat, Nalanda, Samarkand*
 
-Natural Wonders:  Fountain of Youth, Mount Everest
+*Natural Wonders:  Fountain of Youth, Mount Everest*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/italia.Civ6Map>Italia</a>
 
