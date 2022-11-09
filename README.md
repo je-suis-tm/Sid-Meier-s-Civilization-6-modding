@@ -204,13 +204,15 @@ Natural Wonders:  Dead Sea, Eye of Sahara, Fountain of Youth, Lake Retba, Sahara
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/amerique%20du%20sud.Civ6Map>South America</a>
 
+South America doesn’t span the most degrees of latitude but it certainly retains the most diverse landscapes. You have tropical rainforest along Amazon river, the pampas plains where you get the cattles, and Andes mountains with snow, volcano and Atacama desert. Whether you want to be the indigenous tribe leaders to revive the glory of Aztec, Inca, Maya or create a post-colonization civilization to claim independence, anything can be possible in this map.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/amerique%20du%20sud.png)
 
-Civlizations:  Brazil, Colombia, Inca, Mapuche
+*Civlizations:  Brazil, Colombia, Inca, Mapuche*
 
-City States:  Buenos Aires, Caguana, Hunza, Nazca
+*City States:  Buenos Aires, Caguana, Hunza, Nazca*
 
-Natural Wonders:  Fountain of Youth, Mount Roraima, Pantanal, Païtiti, Torres del Paine
+*Natural Wonders:  Fountain of Youth, Mount Roraima, Pantanal, Païtiti, Torres del Paine*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/ukraine.Civ6Map>Ukraine</a>
 
