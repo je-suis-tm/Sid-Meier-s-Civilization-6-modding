@@ -134,13 +134,15 @@ Indian subcontinent is the birthplace of Hinduism, Buddhism, Sikhism and Jainism
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/italia.Civ6Map>Italia</a>
 
+Italy was not a country until Vittorio Emanuele unified Papel State, Sicilia, Toscana, Sardinia, Napoli and Venetia. Although it’s a tiny country, size doesn’t matter, right? It has a decent variety of terrains such as snow-capped Dolomites in the north and sunny Amalfi coastline in the south. There are plenty of city states where you can choose to conquer or take suzerainty as well.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/italia.png)
 
-Civlizations:  Hungary, Rome
+*Civlizations:  Hungary, Rome*
 
-City States:  Bologna, Carthage, Geneva, Valletta, Venice
+*City States:  Bologna, Carthage, Geneva, Valletta, Venice*
 
-Natural Wonders:  Fountain of Youth, Matterhorn, Mount Vesuvius 
+*Natural Wonders:  Fountain of Youth, Matterhorn, Mount Vesuvius*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/royaume%20uni.Civ6Map>King Arthur</a>
 
