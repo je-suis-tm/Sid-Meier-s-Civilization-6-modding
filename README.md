@@ -146,13 +146,15 @@ Italy was not a country until Vittorio Emanuele unified Papel State, Sicilia, To
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/royaume%20uni.Civ6Map>King Arthur</a>
 
+Kingdoms of Camelot may seem to be a small place. Yet, many Anglo-Saxon leaders are fighting over this fertile land. The legend goes “whoever pulls Excalibur out of the stone is entitled to the throne of England”. And this land which crowns King Arthur will be the beginning of an empire that the sun never sets and the beacon of industrial revolution.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/royaume%20uni.png)
 
-Civlizations:  France Culture, Scotland, UK Eleanor, UK Victoria
+*Civlizations:  France Culture, Scotland, UK Eleanor, UK Victoria*
 
-City States:  Armagh, Cardiff
+*City States:  Armagh, Cardiff*
 
-Natural Wonders:  Cliff of Dover, Fountain of Youth, Giant's Causeway
+*Natural Wonders:  Cliff of Dover, Fountain of Youth, Giant's Causeway*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/mideast.Civ6Map>Middle East</a>
 
