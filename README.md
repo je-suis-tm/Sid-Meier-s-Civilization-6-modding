@@ -158,13 +158,15 @@ Kingdoms of Camelot may seem to be a small place. Yet, many Anglo-Saxon leaders 
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/mideast.Civ6Map>Middle East</a>
 
+When it comes to middle east, people always picture it with yellow and dry desert extending towards the horizon. That may be one of its terrestrial features but not all. There are plenty of mountains in Iran, Turkey and South Caucasus. Tigris and Euphrates river, the birthplace of civilizations, also happen to be in the fertile crescent. The spot where middle east sits connects Asia, Europe and Africa altogether. The cultural mixing pot nourishes numerous religions such as Zoroastrianism, Islam, Judaism, and Christianity. So prepare for crusades if you intend to build an empire here.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/arab.png)
 
-Civlizations:  Arab, Athens, Babylon, Byzantine, Egypt, Ethiopia, Georgia, Macedonia, Nubia, Ottoman, Persia, Phoenicia, Sparta, Sumer
+*Civlizations:  Arab, Athens, Babylon, Byzantine, Egypt, Ethiopia, Georgia, Macedonia, Nubia, Ottoman, Persia, Phoenicia, Sparta, Sumer*
 
-City States:  Akkad, Carthage, Hattusa, Jerusalem, Kabul, Lahore, Mohenjo-Daro, Muscat, Ngazargamu, Samarkand, Valletta, Yerevan
+*City States:  Akkad, Carthage, Hattusa, Jerusalem, Kabul, Lahore, Mohenjo-Daro, Muscat, Ngazargamu, Samarkand, Valletta, Yerevan*
 
-Natural Wonders:  Dead Sea, Fountain of Youth, Gobustan, Mount Vesuvius , Pamukkale, Sahara el Beyda
+*Natural Wonders:  Dead Sea, Fountain of Youth, Gobustan, Mount Vesuvius , Pamukkale, Sahara el Beyda*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/amerique%20du%20nord.Civ6Map>North America</a>
 
