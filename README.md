@@ -170,13 +170,15 @@ When it comes to middle east, people always picture it with yellow and dry deser
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/amerique%20du%20nord.Civ6Map>North America</a>
 
+Even though Columbus intended to find the spices in the far east, he ended up discovering the new world for the Europeans. English, French, Spanish, Dutch, they all came here to colonize the continent. But instead, the continent colonized the colonizers. With the Great Plains as one of the largest prairies in the world, any civilization that manages to root here is destined to prosper. The leader that conquers North America will conquer the world one day. 
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/amerique%20du%20nord.png)
 
-Civlizations:  America Cavalry, America Government, Aztec, Canada, Cree, Maya
+*Civlizations:  America Cavalry, America Government, Aztec, Canada, Cree, Maya*
 
-City States:  Cahokia, La venta, Mitla
+*City States:  Cahokia, La venta, Mitla*
 
-Natural Wonders:  Bermuda Triangle, Crater Lake, Delicate Arch, Eyjafjallajökull, Fountain of Youth, Galápagos Islands, Ik-Kil, Lysefjord, Mato Tipila, Yosemite
+*Natural Wonders:  Bermuda Triangle, Crater Lake, Delicate Arch, Eyjafjallajökull, Fountain of Youth, Galápagos Islands, Ik-Kil, Lysefjord, Mato Tipila, Yosemite*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/oceania.Civ6Map>Oceania</a>
 
