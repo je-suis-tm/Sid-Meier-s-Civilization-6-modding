@@ -206,13 +206,15 @@ This is where Moses divided the water and led Israelites running away from Egypt
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/sahara.Civ6Map>Sahara</a>
 
+Sahara, the grassland turned into desert, is a vast and formidable region with sand dunes, rocky mountains and scorching temperatures. The turbans and the camels create ancient trade routes connecting Mali to Egypt. Numerous civilizations have flourished around oasis towns and fertile river valleys since the establishment of Timbuktu-Sijilmasa trade route. With a range of unique challenges and opportunities, players can explore the Sahara and build their empires while navigating the harsh environment and discovering the rich history and culture of this iconic region.
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/sahara.png)
 
-Civlizations:  Arab, Babylon, Egypt, Ethiopia, Mali, Nubia, Phoenicia, Sparta, Sumer
+*Civlizations:  Arab, Babylon, Egypt, Ethiopia, Mali, Nubia, Phoenicia, Sparta, Sumer*
 
-City States:  Akkad, Carthage, Chinguetti, Fes, Granada, Jerusalem, Kumasi, Ngazargamu, Taruga, Valletta
+*City States:  Akkad, Carthage, Chinguetti, Fes, Granada, Jerusalem, Kumasi, Ngazargamu, Taruga, Valletta*
 
-Natural Wonders:  Dead Sea, Eye of Sahara, Fountain of Youth, Lake Retba, Sahara el Beyda
+*Natural Wonders:  Dead Sea, Eye of Sahara, Fountain of Youth, Lake Retba, Sahara el Beyda*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/amerique%20du%20sud.Civ6Map>South America</a>
 
