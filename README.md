@@ -194,13 +194,15 @@ Oceania is the smallest continent famous for its sandy beach coastline and cryst
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/mer%20rouge.Civ6Map>Red Sea</a>
 
+This is where Moses divided the water and led Israelites running away from Egyptians. This is Red Sea, a narrow body of water that separates Africa from Arab. This sacred region is surrounded by some of the most ancient and culturally rich lands in the world. The sea connects civilizations from the Mediterranean to the Indian Ocean. It’s a strategically important location of trade, culture and commerce among Europe, Asia and Africa since the beginning of the civilization. From Assyrians, Persians, Alexander the Great to Byzantine, Arabs, Ottoman, who will be the next civilization to control the great Red Sea?
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/mer%20rouge.png)
 
-Civlizations:  Arab, Babylon, Egypt, Ethiopia, Nubia, Phoenicia, Sumer
+*Civlizations:  Arab, Babylon, Egypt, Ethiopia, Nubia, Phoenicia, Sumer*
 
-City States:  Akkad, Jerusalem
+*City States:  Akkad, Jerusalem*
 
-Natural Wonders:  Dead Sea, Fountain of Youth, Sahara el Beyda
+*Natural Wonders:  Dead Sea, Fountain of Youth, Sahara el Beyda*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/sahara.Civ6Map>Sahara</a>
 
