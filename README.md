@@ -182,13 +182,15 @@ Even though Columbus intended to find the spices in the far east, he ended up di
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/oceania.Civ6Map>Oceania</a>
 
+Oceania is the smallest continent famous for its sandy beach coastline and crystal-clear waters. In fact, it has diverse landscapes ranging from fjord in New Zealand, coral reefs in Australia, volcanic peaks in Indonesia and rainforests in Papua New Guinea. Thousands of islands with few indigenous peoples occupied, every superpower civilization is looking forward to colonizing the region. 
+
 ![alt text](https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/preview/oceania.png)
 
-Civlizations:  Australia, Indonesia, Maori
+*Civlizations:  Australia, Indonesia, Maori*
 
-City States:  Auckland
+*City States:  Auckland*
 
-Natural Wonders:  Fountain of Youth, Great Barrier Reef, Piopiotahi, Uluru
+*Natural Wonders:  Fountain of Youth, Great Barrier Reef, Piopiotahi, Uluru*
 
 * <a href=https://github.com/je-suis-tm/Sid-Meier-s-Civilization-6-modding/blob/main/output/mer%20rouge.Civ6Map>Red Sea</a>
 
